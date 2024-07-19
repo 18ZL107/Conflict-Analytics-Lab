@@ -32,6 +32,7 @@ And prerequisites including:
 - Python
 - Google Cloud SDK
 - Required Python libraries (listed in the code files)
+
 Access details for these tools and prerequisites were well explained to clients or already set in their environment, so they won't be displayed here due to NDA restrictions.
 
 ## Usage
