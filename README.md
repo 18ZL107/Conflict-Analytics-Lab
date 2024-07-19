@@ -45,8 +45,8 @@ Any monthly costs, who pays them, and what credit cards are associated.
 ## Contact Information
 
 ## For any questions or concerns, please contact:
-Name: Alisa Liu
-Email: ziyang.liu@mail.mcgill.ca
-GitHub: https://github.com/18ZL107
+- Name: Alisa Liu
+- Email: ziyang.liu@mail.mcgill.ca
+- GitHub: https://github.com/18ZL107
 
 
