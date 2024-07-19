@@ -11,22 +11,31 @@
 8. Contact Information
    
 ## Description
-A brief overview of the Student Analytics Project, explaining its purpose and goals. This project analyzes data such as grades, attendance, and participation to provide insights into student performance and areas for improvement.
+The OpenJustice AI, developed by the Conflict Analytics Lab, is a specialized GPT designed for the legal field. Its primary aim is to assist professional groups in effectively addressing their legal challenges. As this project marks the early stages of the platform's deployment, understanding current user engagement and platform performance is crucial. The insights gained will enable targeted improvements, enhancing the platform's capability to track, analyze, and respond to user interactions effectively. This, in turn, will improve the platform's usability, ensuring it meets the needs of the community and maximizes its societal benefits.
+
+This repository contains all the project files organized into four main folders:
+- **Dashboards**: Contains user guides for different pages of the dashboard and the link to access the dashboard, which is editable (client only).
+- **Research Files**: Contains documented raw research work done for client update meetings.
+- **Weekly Updates**: Summarized slide decks for weekly meetings with client feedback in red text.
+- **Code Files**: Includes proof of concept code demos for evaluating the current GPT performance, with actual data blurred due to the signed NDA.
 
 ## Tech Assets and URLs
-Describe all the assets involved in the project and how to access them
+The project utilizes several Google Cloud tools to align with clients' current working environment, including:
+- Looker Studio
+- Vertex AI
+- BigQuery
+- Firestore
+- Cloud Storage (optinal)
+Access details and URLs for these tools were well explained to clients or already set in their environment, so they won't be displayed here due to NDA restrictions.
 
 ## Installation
-Step-by-step instructions on how to install and set up the project.
-
-## Prerequisites
-List any prerequisites necessary for the project (e.g., Python, specific libraries, datasets, etc.).
+### Prerequisites
+- Python
+- Google Cloud SDK
+- Required Python libraries (listed in the code files)
 
 ## Usage
-Instructions on how to use the project, including examples and code snippets.
-
-## Example
-Provide an example of how to use the project:
+As the code demo is build on their Google Cloud and the connections are modified, the code 
 
 ## Features
 List of key features included in the project.
