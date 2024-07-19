@@ -18,7 +18,7 @@ This repository contains all the project files organized into four main folders:
 - **Dashboards**: Contains user guides for different pages of the dashboard and the link to access the dashboard, which is editable (client only).
 - **Research Files**: Contains documented raw research work done for client update meetings.
 - **Weekly Updates**: Summarized slide decks for weekly meetings with client feedback in red text.
-- **Code Files**: Includes proof of concept code demos for evaluating the current GPT performance, with actual data blurred due to the signed NDA.
+- **Code Files**: Includes proof of concept code example in PDF format for evaluating the current GPT performance, with actual data blurred due to the signed NDA. And the actual code is alreayd set up in client's environment.
 
 ## Tech Assets
 The project utilizes several Google Cloud tools to align with clients' current working environment, including:
