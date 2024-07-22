@@ -1,15 +1,15 @@
 # Conflict-Analytics-Lab
 
 ## Table of Contents
-1. Description
-2. Tech Assets
-3. Usage
-4. Features
-5. Data Sources
-6. Troubleshooting
-7. Costs involved
-8. Passwords and credentials
-9. Contact Information
+1. [Description](#description)
+2. [Tech Assets](#techassets)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Data Sources](#datasources)
+6. [Troubleshooting](#troubleshooting)
+7. [Costs involved](#costsinvolved)
+8. [Passwords and credentials](#passwordsandcredentials)
+9. [Contact Information](#contactinformation)
    
 ## Description
 The OpenJustice AI, developed by the Conflict Analytics Lab, is a specialized GPT designed for the legal field. Its primary aim is to assist professional groups in effectively addressing their legal challenges. As this project marks the early stages of the platform's deployment, understanding current user engagement and platform performance is crucial. The insights gained will enable targeted improvements, enhancing the platform's capability to track, analyze, and respond to user interactions effectively. This, in turn, will improve the platform's usability, ensuring it meets the needs of the community and maximizes its societal benefits.
