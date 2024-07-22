@@ -39,7 +39,8 @@ Access details for these tools and prerequisites were well explained to clients 
 As the code demo is built on their Google Cloud (notebook with comments and explanations) with customized connections, no specific instructions are needed to run the code. The usage of the dashboard is thoroughly explained in the user guide found in the **Dashboards** folder.
 
 ## Features
-- List of documentations of proposals on metrics (including both Google Analytics and conversation data from their GPT model)
+- Proposals on metrics (including both Google Analytics and conversation data from their GPT model)
+- Proposals on the future user feedback mechanism
 - Customizable dashboards in Looker Studio
 
 ## Data Sources
