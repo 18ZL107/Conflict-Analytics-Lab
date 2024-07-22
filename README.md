@@ -7,8 +7,8 @@
 4. [Features](#features)
 5. [Data Sources](#data-sources)
 6. [Troubleshooting](#troubleshooting)
-7. [Costs involved](#costs-involved)
-8. [Passwords and credentials](#passwords-and-credentials)
+7. [Costs Involved](#costs-involved)
+8. [Passwords and Credentials](#passwords-and-credentials)
 9. [Contact Information](#contact-information)
    
 ## Description
